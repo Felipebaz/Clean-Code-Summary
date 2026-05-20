@@ -239,7 +239,6 @@ _Chapters 1–13. The principles, patterns, and practices of writing clean code.
 
 ---
 
-<a name="coming-soon"></a>
 
 ## Remaining Chapters
 
