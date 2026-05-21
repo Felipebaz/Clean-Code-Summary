@@ -1,8 +1,8 @@
-# Clean Code — Chapter-by-Chapter Summary
+# Clean Code - Chapter-by-Chapter Summary
 
 A curated, professional summary of **_Clean Code: A Handbook of Agile Software Craftsmanship_** by Robert C. Martin (Uncle Bob). This document distills the core ideas of each chapter into a scannable reference, with practical tips integrated throughout.
 
-> _"Indeed, the ratio of time spent reading vs. writing is well over 10:1. We are constantly reading old code as part of the effort to write new code."_ — Robert C. Martin, Chapter 1
+> _"Indeed, the ratio of time spent reading vs. writing is well over 10:1. We are constantly reading old code as part of the effort to write new code."_ - Robert C. Martin, Chapter 1
 
 ---
 
